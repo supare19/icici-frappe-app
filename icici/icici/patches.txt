@@ -1,0 +1,4 @@
+# Patches for ICICI App
+# This file is required by Frappe to recognize the app
+# Add patch names here if you need to run database migrations
+

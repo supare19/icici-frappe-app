@@ -4,9 +4,9 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setup(
-    name="icici",
+    name="icici_integration",
     version="1.0.0",
-    description="ICICI IMPS Name Inquiry API Integration for Frappe/ERPNext",
+    description="ICICI Bank API Integration for Frappe/ERPNext",
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Your Name",

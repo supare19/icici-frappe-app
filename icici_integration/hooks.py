@@ -1,9 +1,9 @@
-app_name = "icici"
-app_title = "ICICI IMPS API"
-app_publisher = "Your Company"
-app_description = "ICICI Bank IMPS Name Inquiry API Integration"
-app_email = "support@example.com"
-app_license = "MIT"
+app_name = "icici_integration"
+app_title = "ICICI Integration"
+app_publisher = "CloudExtel"
+app_description = "ICICI Bank API Integration"
+app_email = "m.patel@cloudextel.com"
+app_license = "mit"
 
 # Includes in <head>
 # ------------------
@@ -185,7 +185,7 @@ app_license = "MIT"
 # API
 # ---
 api = {
-	"name_inquiry": "icici.api.icici_api.name_inquiry",
+	"verify_supplier_bank": "icici_integration.icici_api.verify_supplier_bank",
 }
 
 # Website
